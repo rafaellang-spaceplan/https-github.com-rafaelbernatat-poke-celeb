@@ -1,0 +1,5 @@
+{
+  "name": "Poké-Celeb AutoCreator(video)",
+  "description": "Transform celebrities into Pokémon-style characters with automatic stats, lore, cards, and TikTok scripts using Gemini and Imagen.",
+  "requestFramePermissions": []
+}
